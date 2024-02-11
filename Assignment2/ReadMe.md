@@ -4,4 +4,4 @@
 4. To create links use ([]) with discriptive words followed (()) containing the URL.
 5. Images are created in a similar way to links but using (!). Follow the same steps with the URL but begin with (!).
 
-! (Monte gif) [https://giphy.com/gifs/UMGrizzlies-montana-grizzlies-gogriz-QWvamOXFmcUjv3twKv]
+! (Monte gif) [https://www.sportslogos.net/logos/view/75983812014/Montana_Grizzlies/2014/Mascot_Logo]
