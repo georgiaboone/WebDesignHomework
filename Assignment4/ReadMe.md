@@ -8,4 +8,4 @@
 
 5.) The index is a master HTML file. It serves as a default entry point on a website. It is typically the homepage of a site.
 
-Review: What are some of the best naming practices?
+6.) Some of the best naming practices include: Descriptive names that explain what is in each file in simple terms, no spaces and no funky characters, not recommended to use numeric characters to start an HTML or CSS, must have an index.html file within the root file (not anywhere else) and it must be titled index.html or index.htm.
